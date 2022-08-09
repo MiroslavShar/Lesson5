@@ -1,4 +1,4 @@
-public class Trenerovka {
+/*public class Trenerovka {
     int a;
     int b;
     int c;
@@ -21,3 +21,5 @@ public class Trenerovka {
         return result;
     }
 }
+
+ */
